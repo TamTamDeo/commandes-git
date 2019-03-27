@@ -1,0 +1,1 @@
+Je note qu'il y a souvent des bugs quand j'utilise la commande vim
