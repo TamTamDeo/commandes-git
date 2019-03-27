@@ -1,0 +1,5 @@
+Je commence donc par quelques commandes de base:
+git status
+ls
+cd
+git clone
